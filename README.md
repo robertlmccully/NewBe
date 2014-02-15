@@ -6,13 +6,13 @@
 </head>
 
 <body>
-NewBe
+REFERENCE STARTED  click RAW view
 =====
 
 Starting a reference libary for html.css, js. .
 So anyone can add to it.
 I have found a difficult to find all the terms,code,and so on,
-If you do add to this list, try to make it simple.  
+If you do add to this , try to make it simple.  
 
 <div></div> A div is a container to hold blocks of code. Place in in the body.
 <!doctype html>
